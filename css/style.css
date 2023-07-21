@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 3%;
+  align-items: center;
+}
+
+.card {
+  margin-bottom: 2%;
+  width: 80%;
+  position: relative;
+}
+
+.card-body {
+  width: 80%;
+}
+
+.btn-dark {
+  position: absolute;
+  right: 10px;
+  bottom: 30px;
+}
